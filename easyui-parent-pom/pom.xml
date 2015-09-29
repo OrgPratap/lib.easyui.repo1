@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.pratap.easyui</groupId>
+  <artifactId>easyui-parent-pom</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>easyui-parent-pom</name>
+  <description>easyui demos</description>
+  <modules>
+  	<module>easyui-ex-accordion</module>
+  	<module>easyui-ex-autoplaytotabs</module>
+  	<module>easyui-ex-buildborderlayout</module>
+  	<module>easyui-ex-complexlayoutonpanel</module>
+  	<module>easyui-ex-dynamicallyaddtabs</module>
+  	<module>easyui-ex-linkbutton</module>
+  	<module>easyui-ex-menu</module>
+  	<module>easyui-ex-menubutton</module>
+  	<module>easyui-ex-splitbutton</module>
+  	<module>easyui-ex-tabs</module>
+  	<module>easyui-ex-xpstyleleftpanel</module>
+    <module>easyui-ex-datagridpagination</module>
+    <module>easyui-ex-complextoolbartodatagrid</module>
+    <module>easyui-ex-toolbartodatagrid</module>
+    <module>easyui-ex-selectrowdatagrid</module>
+    <module>easyui-ex-searchfunctiondatagrid</module>
+    <module>easyui-ex-frozencolumnsdatagrod</module>
+    <module>easyui-ex-formattingcolumnsdatagrid</module>
+    <module>easyui-ex-sortingtodatagrid</module>
+    <module>easyui-ex-customsortingtodatagrid</module>
+    <module>easyui-ex-htmltabletodatagrid</module>
+    <module>easyui-ex-mergedatagridcells</module>
+    <module>easyui-ex-editingdatagridcalculation</module>
+    <module>easyui-ex-extendeditorsfordatagrid</module>
+    <module>easyui-ex-inlineeditingdatagrid</module>
+    <module>easyui-ex-customdatagridpaging</module>
+    <module>easyui-ex-selecttextboxindatagrid</module>
+    <module>easyui-ex-columngroupsindatagrid</module>
+  </modules>
+</project>
